@@ -1,0 +1,24 @@
+
+body {
+    text-align: center;
+}
+
+header  {
+background-color: #bb2a36;
+display: flex;
+align-items: center;
+padding: 1rem;
+color: white;
+
+}
+
+#onu   {
+height: 90px;
+padding-right: 20px;
+
+}
+
+a {
+text-decoration: none;
+
+}
